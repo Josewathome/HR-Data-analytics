@@ -1,0 +1,2 @@
+# Project : HR Data Analytics
+The HR Data Analytics project in the HR domain involved creating a Power BI dashboard and utilizing Excel for data analysis. The project aimed to enhance HR operations by providing a comprehensive view of employee information, such as working hours, attendance, performance, and leave records, all in one place. By centralizing and visualizing this data, the project streamlined HR processes, leading to increased efficiency. Notably, the dashboard significantly reduced the daily workload for HR personnel, saving them 3-4 hours of work each day.
